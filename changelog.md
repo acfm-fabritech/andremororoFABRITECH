@@ -11,4 +11,7 @@ Todas as mudanças no projeto que forem levadas a produção devem ser registrad
     - [2770](https://fabritech.acelerato.com/tickets/2770) - Monitor de expedição - Impressão de pick list 
     - [2770](https://fabritech.acelerato.com/tickets/2770) - Monitor de expedição - Impressão de pick list 
     - [2770](https://fabritech.acelerato.com/tickets/2770) - Monitor de expedição - Impressão de pick list 
-    - [2770](https://fabritech.acelerato.com/tickets/2770) - Monitor de expedição - Impressão de pick list
+    
+## 2023-02-14
+ - Marcio Lopes
+    - [2836](https://fabritech.acelerato.com/tickets/2046) - Subida em produ��o do projeto Dollar
