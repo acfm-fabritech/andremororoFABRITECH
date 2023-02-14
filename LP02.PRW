@@ -1,10 +1,20 @@
-15/05/1990
-
 22/05/1989
 22/05/1989 - VAlendo
 09876543321
 
 
+nova_funcao
+	Local cBody		:= ::GetContent()
+	Local lRetorno	:= .T.
+	Local cMenErro	:= ""
+nova_funcao
+	Local cBody		:= ::GetContent()
+	Local lRetorno	:= .T.
+	Local cMenErro	:= ""
+nova_funcao
+	Local cBody		:= ::GetContent()
+	Local lRetorno	:= .T.
+	Local cMenErro	:= ""
 nova_funcao
 	Local cBody		:= ::GetContent()
 	Local lRetorno	:= .T.
